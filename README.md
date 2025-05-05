@@ -29,7 +29,7 @@
 ### 📈 **2. Data Visualization Dashboard**
 - **Description:** Designed an interactive dashboard to visualize business KPIs using **Tableau**.
 - **Technologies:** Tableau, Python, SQL
-- 🔗 [View Project](https://github.com/RichardKameri/your-dashboard-project)
+- 🔗 [View Project](https://india-credit-insights-hub.lovable.app/)
 
 ### 🤖 **3. NLP Sentiment Analysis**
 - **Description:** Developed a sentiment analysis tool using **Natural Language Processing (NLP)**.
