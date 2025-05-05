@@ -34,7 +34,7 @@
 ### 🤖 **3. NLP Sentiment Analysis**
 - **Description:** Developed a sentiment analysis tool using **Natural Language Processing (NLP)**.
 - **Technologies:** Python, TensorFlow, NLTK
-- 🔗 [View Project](https://github.com/RichardKameri/your-nlp-project)
+- 🔗 [View Project](https://airy-kenya-reports.lovable.app/)
 
 ## 📚 Latest Blog Posts
 
