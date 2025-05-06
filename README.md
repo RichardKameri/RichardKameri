@@ -38,7 +38,7 @@
 
 ## 📚 Latest Blog Posts
 
-- 📝 [How to Build an End-to-End Machine Learning Pipeline](#)
+- 📝 [How to Build an End-to-End Machine Learning Pipeline](https://medium.com/@richardkameri327/how-to-build-a-an-end-to-end-machine-learning-pipeline-4e6de0913905)
 - 📝 [Optimizing Models for Better Accuracy](#)
 - 📝 [A Beginner’s Guide to Data Science](#)
 
