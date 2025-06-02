@@ -24,7 +24,7 @@
 ### 🧠 **1. Machine Learning Model for Predictive Analytics**
 - **Description:** Built a predictive model to forecast sales using **XGBoost** and **Time Series Analysis**.
 - **Technologies:** Python, Scikit-Learn, Pandas, Matplotlib
-- 🔗 [View Project](https://github.com/RichardKameri/your-ml-project)
+- 🔗 [View Project](https://github.com/RichardKameri/MACHINE-LEARNING-1/blob/main/Copy_of_Credit_Card_Fraud_Detection.ipynb)
 
 ### 📈 **2. Data Visualization Dashboard**
 - **Description:** Designed an interactive dashboard to visualize business KPIs using **Tableau**.
